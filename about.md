@@ -3,9 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+My alias is sorunis. I'm a software engineer working in Shanghai.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I write about programming, software engineering, web product design (in English) and some sensational essays ( mainly in Chinese) here.
