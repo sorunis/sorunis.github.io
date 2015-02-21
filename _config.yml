@@ -2,8 +2,10 @@
 title: Fastidious Coder
 email: sorunis001[at]gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  web python java javascript html5 
-  gamification sharism 
+  web python java javascript html5
+  
+  gamification sharism
+  
   programming notes
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sorunis.github.io" # the base hostname & protocol for your site
