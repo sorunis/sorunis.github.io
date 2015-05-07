@@ -1,0 +1,20 @@
+---
+layout: post
+title: Code Mess
+---
+__Possible Reasons__
+1. Coders don't care to read "best practice" rules.
+2. They read it but cannot understand the meaning, or cannot carry out correctly in daily practice.
+3. Supervisors or mentors do not care.
+4. Shallow reading the guides but over thinking the behavior.
+5. No static analyzing tools.
+6. Ephemeral project life span and result-driven company culture.
+
+
+__Categorizations__
+1. Type mess
+2. Class mess
+3. Global variables mess
+4. Callback / Event mess
+5. Pattern mess / Function mess
+6. Architecture mess
